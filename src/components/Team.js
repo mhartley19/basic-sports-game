@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React from 'react'
 // import made from '../public/logos/Swish.wav'
 let swishSound = new Audio('logos/Swish.wav')
 let shotSound = new Audio('logos/PUNCH.wav')
